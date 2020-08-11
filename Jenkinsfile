@@ -1,3 +1,6 @@
+#! groovy
+@Library("common-shared-library")
+
 pipeline {
     agent any
     // parameters {
